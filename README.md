@@ -1,2 +1,3 @@
 # Data-Analytics-for-House-Pricing-Data
 Data Analytics for House Pricing Data
+There are ten questions, each worth one point. For each item, you should have taken a screenshot of the output of each cell with the code that generated it, as directed in the final project Jupyter Notebook. You will not be graded on how well you wrote your code, just the output. However, you should provide the code used to obtain the answer in your screenshot. The provided code must run. Questions are independent. If you cannot answer a question or the answer you found is incorrect, you can still do the rest of the problems. 
